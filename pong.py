@@ -22,7 +22,7 @@ corazon = pygame.transform.scale(corazon, (32, 32))
 
 vidas = 3
 
-MAX_VELOCIDAD = 7
+MAX_VELOCIDAD = 8
 INCREMENTO_VELOCIDAD = 0.3
 
 ###clase pelota
